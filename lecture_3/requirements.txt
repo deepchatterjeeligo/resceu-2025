@@ -1,6 +1,7 @@
-torch==2.6.0
+bilby
+corner
+torch>=2.5.0
 lightning
-scikit-learn
 pyro-ppl
 matplotlib
 jupyter

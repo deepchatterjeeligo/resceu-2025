@@ -15,3 +15,6 @@ _build
 .vscode
 .ipynb_checkpoints
 .venv
+# Bilby checkpoints
+lecture_3/linear_regression/
+lecture_3/logs/

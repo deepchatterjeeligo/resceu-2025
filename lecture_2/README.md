@@ -12,4 +12,4 @@ This will create a `.venv` under the `lecture_1` directory, which you can then a
 ```bash
 $ source .venv/bin/activate
 ```
-When running the notebook, use the interpreter in `lecture_1/.venv/bin/python`.
+When running the notebook, use the interpreter in `lecture_2/.venv/bin/python`.
