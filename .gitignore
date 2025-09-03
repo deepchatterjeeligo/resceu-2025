@@ -1,0 +1,17 @@
+# Files created by editing, developing, running tests, building docs
+.DS_Store
+.*.swp
+*~
+*.egg-info
+*.pyc
+__pycache__
+.eggs
+.cache
+.coverage*
+.pytest_cache
+celerybeat-schedule.*
+build
+_build
+.vscode
+.ipynb_checkpoints
+.venv

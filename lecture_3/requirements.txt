@@ -1,0 +1,7 @@
+torch==2.6.0
+lightning
+scikit-learn
+pyro-ppl
+matplotlib
+jupyter
+RISE
